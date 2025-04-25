@@ -1,0 +1,12 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="90" fill="#007BFF" />
+  
+  <!-- Location pin -->
+  <path d="M100 40C79.0132 40 62 57.0132 62 78C62 106.5 100 160 100 160C100 160 138 106.5 138 78C138 57.0132 120.987 40 100 40ZM100 95C90.0589 95 82 86.9411 82 77C82 67.0589 90.0589 59 100 59C109.941 59 118 67.0589 118 77C118 86.9411 109.941 95 100 95Z" fill="white" />
+  
+  <!-- Tracking circles -->
+  <circle cx="100" cy="100" r="80" stroke="white" stroke-width="4" stroke-dasharray="10 5" fill="none" />
+  <circle cx="100" cy="100" r="60" stroke="white" stroke-width="3" stroke-dasharray="8 4" fill="none" />
+  <circle cx="100" cy="100" r="40" stroke="white" stroke-width="2" stroke-dasharray="6 3" fill="none" />
+</svg>
